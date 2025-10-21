@@ -41,7 +41,7 @@ export default function Yara() {
             
             <CardUser user={YaraUser} />
             
-            <p>Para quem não me conhece, essa sou eu, Yara.</p>
+            <p>Prazer, Yara.</p>
             
             <Link to="/">Voltar para a Home</Link> 
         </div>
