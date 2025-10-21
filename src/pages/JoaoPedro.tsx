@@ -42,7 +42,7 @@ export default function JoaoPedro() {
             
             <CardUser user={JoaoPedroUser} />
             
-            <p>Esta é a minha página de perfil para a atividade de Git Flow.</p>
+            <p>Opa, esse sou eu. Criei meu card pra atividade de Git Flow.</p>
             
             <Link to="/">Voltar para a Home</Link> 
         </div>
