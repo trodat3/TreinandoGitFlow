@@ -15,7 +15,7 @@ export default function Navbar() {
     }}>
       <Link to="/" style={{ fontWeight: isActive("/") ? "bold" : "normal" }}>Home/Casa/Inicio/Cê que decide</Link>
       <Link to="/user1" style={{ fontWeight: isActive("/user1") ? "bold" : "normal" }}>trodat3 😎</Link>
-      <Link to="/user2" style={{ fontWeight: isActive("/user2") ? "bold" : "normal" }}>livaibrr 🤫</Link>
+      <Link to="/user2" style={{ fontWeight: isActive("/user2") ? "bold" : "normal" }}>Iivaibrr 🤫</Link>
       <Link to="/user3" style={{ fontWeight: isActive("/user3") ? "bold" : "normal" }}>Yarafr 😺</Link>
     </nav>
   );
