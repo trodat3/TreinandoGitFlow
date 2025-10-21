@@ -4,7 +4,7 @@ import CardUser from '../components/CardUser';
 import { type GitHubUser } from '../interface/GithubAPI';
 import { Link } from 'react-router-dom';
 
-export function Levi() {
+export default function Levi() {
     const [leviUser, setLeviUser] = useState<GitHubUser | null>(null);
     const [loading, setLoading] = useState(true);
     
